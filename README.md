@@ -1,0 +1,2 @@
+# omTradingautomation
+Algo trading code
